@@ -1,6 +1,6 @@
 SERVIDOR DE BAHIANET
 
--Servidor web
+-Servidor web - Ubuntu Server
 
 -Servidor de copias de seguridad
 
